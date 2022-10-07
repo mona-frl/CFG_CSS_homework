@@ -1,7 +1,8 @@
 # CFG Homework - CSS
 
-## Style one page to look like a website you like the layout/appearance of. Feel free to recreate the cafe website you saw in the first few slides.
+## Style one page to look like a website you like the layout/appearance of. Feel free to recreate the cafe website you saw in the first few slides
 
 ## My solution
 
-I've used pure CSS to style the assigment as requrested.
+- I've used pure CSS to style the assigment as requrested.
+- Also tried to make it mobile friendly (without going into it too deep)

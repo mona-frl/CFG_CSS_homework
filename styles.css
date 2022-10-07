@@ -2,13 +2,10 @@ body {
     margin: 0;
     text-align: center;
     font-family: 'Quicksand', sans-serif;
-    width: 100%;
 }
 
 h1 {
     font-family: 'Koulen', cursive;
-    font-size: 50px;
-    margin: 0px;
 }
 
 /* heading */
@@ -16,10 +13,12 @@ h1 {
 .heading {
     display: flex;
     justify-content: space-between;
+    flex: 1;
 }
 
 .not-mona h2 {
     margin: 0;
+    width: 100%;
 }
 
 
@@ -28,6 +27,7 @@ h1 {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    flex: auto;
 }
 
 
